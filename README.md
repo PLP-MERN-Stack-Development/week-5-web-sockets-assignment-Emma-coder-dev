@@ -1,4 +1,3 @@
-```markdown
 # 💬 Real-Time Chat Application
 
 This is a real-time chat application built using **Node.js**, **Express**, **Socket.io**, **React**, and **MongoDB**. The app allows users to join chat rooms with a username and room name, exchange messages live, and view typing status updates in real time. Messages are stored in a MongoDB database.
@@ -90,4 +89,4 @@ This project was built as part of a **real-time communication assignment** in We
 ## 📄 License
 
 This project is licensed under the MIT License.
-```
+
