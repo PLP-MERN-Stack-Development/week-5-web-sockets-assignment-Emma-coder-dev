@@ -1,0 +1,46 @@
+.chat-container {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.join-form input, .chat-box input {
+  margin: 5px;
+  padding: 8px;
+}
+
+.join-form button, .chat-box button {
+  padding: 8px 12px;
+  margin-top: 10px;
+}
+
+.chat-box {
+  max-width: 600px;
+}
+
+.messages {
+  height: 250px;
+  overflow-y: auto;
+  border: 1px solid gray;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.typing {
+  font-style: italic;
+  color: gray;
+}
+
+.timestamp {
+  font-size: 0.8em;
+  color: #999;
+  margin-left: 10px;
+}
+
+.notification {
+  color: green;
+  font-weight: bold;
+}
+
+.users-list {
+  margin-bottom: 10px;
+}
